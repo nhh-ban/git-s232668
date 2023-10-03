@@ -4,8 +4,10 @@ This is the first assignment in BAN400. As you know -- given that you have come 
 
 **Date:**
 October 3, 2023
+
 **Name:**
 Dang Henry Nhat Le
+
 **Student number:**
 s232668
 ## :information_source: Problem 1
